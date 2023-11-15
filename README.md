@@ -28,3 +28,17 @@ For Alsatian, the data are organized slightly differently, given that a lot of d
 
 - [Titles](https://docs.google.com/spreadsheets/d/1QXdGvYws8gCk7UOl6PB9W0SFMC7MEgNYb3NJJQOQ-xo/edit?usp=sharing)
 - [Annotations](https://docs.google.com/spreadsheets/d/111YjwAeIN52E9UhneKg6GV7qIB_FM5576o0AXQKivdg/edit?usp=sharing)
+
+
+## License and citation
+
+The license is [CC-BY](LICENSE)
+
+
+The data can be cited as:
+
+Ruiz Fabo, Pablo, Boisnard, Fanny, Schneider, Alexia, Nugues, Lara, Krautter, Benjamin (2023). Thealtres project annotations: Comparing theater in Alsatian with the dramatic traditions at its source. Université de Strasbourg. https://git.unistra.fr/thealtres/thealtres-sources
+
+Or this poster can be cited:
+
+Ruiz Fabo, Pablo, Boisnard, Fanny, Schneider, Alexia, Nugues, Lara, Krautter, Benjamin (2023). Comparaison entre le théâtre en alsacien (1800-1929) et ses traditions dramatiques sources. *Humanistica 2023*. Poster: https://zenodo.org/doi/10.5281/zenodo.10134342 Abstract: https://hal.science/hal-04105543 Data: https://git.unistra.fr/thealtres/thealtres-sources
