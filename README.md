@@ -37,7 +37,7 @@ The license is [CC-BY](LICENSE)
 
 The data can be cited as:
 
-Ruiz Fabo, Pablo, Boisnard, Fanny, Schneider, Alexia, Nugues, Lara, Krautter, Benjamin (2023). Thealtres project annotations: Comparing theater in Alsatian with the dramatic traditions at its source. Université de Strasbourg. https://git.unistra.fr/thealtres/thealtres-sources
+Boisnard, Fanny, Schneider, Alexia, Ruiz Fabo, Pablo, Nugues, Lara, Krautter, Benjamin (2023). Thealtres project annotations: Comparing theater in Alsatian with the dramatic traditions at its source. Université de Strasbourg. https://git.unistra.fr/thealtres/thealtres-sources
 
 Or this poster can be cited:
 
