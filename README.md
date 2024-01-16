@@ -1,5 +1,7 @@
 # thealtres-sources
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10520030.svg)](https://doi.org/10.5281/zenodo.10520030)
+
 Annotations created in the Thealtres project, which compares theater in Alsatian with popular theater in German and French. See https://thealtres.pages.unistra.fr for a project description.
 
 ## Project structure
@@ -50,7 +52,7 @@ The license is [CC-BY](LICENSE)
 
 The data can be cited as:
 
-Boisnard, Fanny, Schneider, Alexia, Ruiz Fabo, Pablo, Nugues, Lara, Krautter, Benjamin (2023). Thealtres project annotations: Comparing theater in Alsatian with the dramatic traditions at its source. Université de Strasbourg. https://git.unistra.fr/thealtres/thealtres-sources
+Boisnard, Fanny, Schneider, Alexia, Ruiz Fabo, Pablo, Nugues, Lara, Krautter, Benjamin (2023). Thealtres project annotations: Comparing theater in Alsatian with the dramatic traditions at its source. Université de Strasbourg. https://doi.org/10.5281/zenodo.10520030
 
 Or this poster can be cited:
 
