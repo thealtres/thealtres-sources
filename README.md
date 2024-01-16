@@ -4,31 +4,44 @@ Annotations created in the Thealtres project, which compares theater in Alsatian
 
 ## Project structure
 
-So far the data are produced with online spreadsheets. They will later be converted to TEI feature structures, using the method devised in earlier work [(Ruiz & Bermúdez, 2022)](https://zenodo.org/doi/10.5281/zenodo.7110069).
+So far the data are produced with online spreadsheets. A project goal is to later be converted to TEI feature structures, using the method devised in earlier work [(Ruiz & Bermúdez, 2022)](https://zenodo.org/doi/10.5281/zenodo.7110069).
 
 For each tradition (Alsatian, German, French), we have two workbooks:
 
-- **Titles**: Play metadata and data collection information (where found etc.)
-- **Annotations**: Character social variables, setting, number of acts/scenes, etc.
+- **Annotations**: Character social variables, setting, number of acts/scenes, etc. Plays' bibliographic metadata are also included here.
+- **Bibliographic metadata**: Most of the information here is also part of the *annotations* sheets, but here we may find more information about the source availabiity (e.g. print source location for sources not online). 
+
+Each file has been assigned a DOI with the [Nakala](https://www.nakala.fr) platform hosted by the French national infrastructure for digital humanities. However, as some people may prefer online spreadsheets, we provide links to those as well (the sheets linked to from here were frozen to match the released data)
 
 ## Alsatian
 
-For Alsatian, the data are organized slightly differently, given that a lot of data come from our earlier project, [MeThAL](https://methal.pages.unistra.fr)
+For Alsatian, the data are organized slightly differently, given that a lot of the data (*Annotations 1* below) come from our earlier project, [MeThAL](https://methal.pages.unistra.fr).
 
-- [Annotations 1](https://docs.google.com/spreadsheets/d/1_xUK1uP209UCjJ9agqr_Zik65u08A8rOAVo53PTtj8Y/edit?usp=sharing) (from MeThaL)
-- [Annotations 2](https://docs.google.com/spreadsheets/d/1izYiZ1wJnlXxVxC2MN4OdRneA9MWkIbnUJp7kxG4_u0/edit?usp=sharing) (new ones created in Thealtres)
+- Annotations 1 (from MeThAL)
+    - [ODS](./als/methal_project_metadata_alsatian_theater.ods) format, or at DOI [10.34847/nkl.e4e9fqj3](https://dx.doi.org/10.34847/nkl.e4e9fqj3)
+    - [Online spreadsheet](https://docs.google.com/spreadsheets/d/1TtAKvbEJa309-3Y_Xu36ap1gwkS1iiH2KrQCie_GfqA/edit?usp=sharing)
+
+- Annotations 2 (new ones created at Thealtres)
+    - [ODS](./als/annots_als_thealtres.ods) format, or at DOI [10.34847/nkl.dc8ec0k7](https://dx.doi.org/10.34847/nkl.dc8ec0k7)
+    - [Online spreadsheet](https://docs.google.com/spreadsheets/d/1zGfWIvuS6UTjDgFkFZr4EkAd9UCRlfuWgBcXAA3ejY8/edit#gid=1443847021)
 
 ## German
 
-- [Titles](https://docs.google.com/spreadsheets/d/1ju7eGwEvbifYzmAa9MMV2LWvDCV6p07a1EPJq6e5B7I/edit?usp=sharing)
-- [Annotations](https://docs.google.com/spreadsheets/d/17QiPj37fzxLO7KA2l4ttFnUe1G0Cga5_729Xu2u78KY/edit?usp=sharing)
-
+- Annotations
+    - [ODS](./ger/annots_ger_thealtres.ods) format, or at DOI
+    - [Online spreadsheet](https://docs.google.com/spreadsheets/d/1FDU3dZGDDpKs_MlP6Hcf8Tt7jUz5vExLgqJgSuX_a6E/edit?usp=sharing)
+- Bibliographic metadata
+    - [ODS](./ger/bibliomd_ger_thealtres.ods) format, or at DOI [10.34847/nkl.14ea0ltd](https://dx.doi.org/10.34847/nkl.14ea0ltd)
+    - [Online spreadsheet](https://docs.google.com/spreadsheets/d/1Libv04CcTwCzGTznSlpLmzesf1s18h9HUC5Gbf0DkQw/edit?usp=sharing)
 
 ## French
 
-- [Titles](https://docs.google.com/spreadsheets/d/1QXdGvYws8gCk7UOl6PB9W0SFMC7MEgNYb3NJJQOQ-xo/edit?usp=sharing)
-- [Annotations](https://docs.google.com/spreadsheets/d/111YjwAeIN52E9UhneKg6GV7qIB_FM5576o0AXQKivdg/edit?usp=sharing)
-
+- Annotations
+    - [ODS](./fre/annots_fre_thealtres.ods) format, or at DOI [10.34847/nkl.aa6fz7oo](https://dx.doi.org/10.34847/nkl.aa6fz7oo)
+    - [Online spreadsheet](https://docs.google.com/spreadsheets/d/1KmJWO_LfYYqcW_ucMC-QjdQ2UxnOhrN6SXP-3YoR8R0/edit?usp=sharing)
+- Bibliographic metadata
+    - [ODS](./fre/bibliomd_fre_thealtres.ods) format, or at DOI [10.34847/nkl.aa6fz7oo](https://dx.doi.org/10.34847/nkl.aa6fz7oo)
+    - [Online spreadsheet](https://docs.google.com/spreadsheets/d/1WpPnGrhFsvqX53cRjWaYYiKDKj5EpwKH2q-P0VzBMZg/edit?usp=sharing)
 
 ## License and citation
 
