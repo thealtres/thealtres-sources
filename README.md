@@ -4,6 +4,8 @@
 
 Annotations created in the Thealtres project, which compares theater in Alsatian with popular theater in German and French. See https://thealtres.pages.unistra.fr for a project description.
 
+The data are currently hosted at our [institutional GitLab](https://git.unistra.fr/thealtres/thealtres-sources) instance and on [GitHub](https://github.com/thealtres/thealtres-sources) (the repository is mirrored), with releases via Nakala (for individual files) or Zenodo (for the entire repository).
+
 ## Project structure
 
 So far the data are produced with online spreadsheets. A project goal is to later convert them to TEI feature structures, using the method devised in earlier work [(Ruiz & Bermúdez, 2022)](https://zenodo.org/doi/10.5281/zenodo.7110069).
@@ -13,7 +15,7 @@ For each tradition (Alsatian, German, French), we have two workbooks:
 - **Annotations**: Character social variables, setting, number of acts/scenes, etc. Plays' bibliographic metadata are also included here.
 - **Bibliographic metadata**: Most of the information here is also part of the *annotations* sheets, but here we may find more information about the source availability (e.g. print source location for sources not online). 
 
-Each file has been assigned a DOI with the [Nakala](https://www.nakala.fr) platform hosted by the French national infrastructure for digital humanities. However, as some people may prefer online spreadsheets, we provide links to those as well (the sheets linked to from here were frozen to match the released data).
+Each file has been assigned a DOI with the [Nakala](https://www.nakala.fr) platform hosted by the French national infrastructure for digital humanities. However, as some people may prefer online spreadsheets, we provide links to those as well (the sheets linked to from here match the data released as v1.0 ([[GitHub]](https://github.com/thealtres/thealtres-sources/releases/tag/v1.0) [[Unistra GitLab]](https://git.unistra.fr/thealtres/thealtres-sources/-/releases/v1.0)).
 
 ## Alsatian
 
